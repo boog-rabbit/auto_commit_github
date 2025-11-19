@@ -4,7 +4,6 @@ targets/
 
 old_comments.py
 
-.vscode
 (IGNORE)
 
 *.bak
@@ -135,7 +134,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -166,3 +164,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+config.bat
+node_modules
